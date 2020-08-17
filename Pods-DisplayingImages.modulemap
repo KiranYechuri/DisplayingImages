@@ -1,0 +1,6 @@
+framework module Pods_DisplayingImages {
+  umbrella header "Pods-DisplayingImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
